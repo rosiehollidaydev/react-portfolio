@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/rosiemcposie/react-portfolio",
   "name": "rosie",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +14,9 @@
     "snptart": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -30,5 +33,8 @@
   "description": "Rosie Holliday Portfolio in React",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
