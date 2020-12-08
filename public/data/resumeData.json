@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Rosie Holliday",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Developer by Day, cat mum and app developer by night",
+    "image": "mebg.jpg",
+    "bio": "My name is Rosie, I'm a Full Stack .NET Developer. Currently I'm working full time while also developing multiple React Native apps in my spare time",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rosie@rosieholliday.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Newcastle Upon Tyne",
+      "state": "",
+      "zip": ""
+    },
+    "website": "http://www.rosieholliday.com",
+    "resumedownload": "http://rosieholliday.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dadoofenshmirtz",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rosieholliday/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/rosiemcposie",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Sunderland",
+        "degree": "BSc in Computer Systems Engineering",
+        "graduated": "July 2016",
+        "description": "Graduated with Commendation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Oak Engage",
+        "title": "Integration Specialist",
+        "years": "January 2020 - Present",
+        "description": "Leveraging APIs to create integrations between different solutions."
+      },
+      {
+        "company": "Boxmodel Digital",
+        "title": "Developer",
+        "years": "July 2018 - January 2020",
+        "description": "Developing a variety of web based solutions for clients."
+      },
+      {
+        "company": "Unicorn Digital Solutions",
+        "title": "Senior Developer",
+        "years": "August 2018 - January 2020",
+        "description": "Leading a development team who delivered a variety of websites and apps to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "100%"
+      },
+      {
+        "name": "C# .NET",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Vue",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Whozat",
+        "category": "Android App leveraging facial recognition API written in React Native",
+        "image": "whozat.png",
+        "url": "https://github.com/rosiemcposie/whozat"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I'm just a developer with a passion for learning.",
+        "user": "Rosie Holliday"
+      }
+    ]
+  }
+}
